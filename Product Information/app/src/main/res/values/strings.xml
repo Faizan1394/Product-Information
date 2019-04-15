@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Product Information</string>
+    <string name="price_bitcoin">Price BitCoin:</string>
+    <string name="price_canadian">Price Canadian:</string>
+    <string name="description">Description:</string>
+    <string name="product">Product:</string>
+    <string name="clear">clear</string>
+    <string name="save">save</string>
+</resources>
